@@ -1,0 +1,84 @@
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.221.4\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\32\GRN5.exe "N:\Windows\system32" 
+.\32\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.222.4\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\32\GRN5.exe "N:\Windows\system32" 
+.\32\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.223.4\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\32\GRN5.exe "N:\Windows\system32" 
+.\32\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.224.4\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\32\GRN5.exe "N:\Windows\system32" 
+.\32\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.225.3\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\64\GRN5.exe "N:\Windows\system32" 
+.\64\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.226.4\c$ /user:grn Gkfnbyf190 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\32\GRN5.exe "N:\Windows\system32" 
+.\32\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
+
+C:\MyCpp\GRN5\OUT>net use N: \\192.168.227.5\c$ /user:grn grn 
+Команда выполнена успешно.
+
+
+C:\MyCpp\GRN5\OUT>xcopy.exe /Y .\64\GRN5.exe "N:\Windows\system32" 
+.\64\GRN5.exe
+Скопировано файлов: 1.
+
+C:\MyCpp\GRN5\OUT>net use N: /del /yes 
+N: успешно удален.
+
